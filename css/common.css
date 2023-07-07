@@ -16,17 +16,24 @@ html {
 
 /* css 컬러 선언 */
 :root {
-  --color-point01: #ca0202;
-  --color-point02: #da1009;
-  --color-point03: #d70000;
-  --color-point04: #d83832;
-  --color-point05: #fe8100;
-  --color-point06: #ff6216;
-  --color-point07: #47b3ea;
-  --color-point08: #539a00;
-  --color-point09: #96c11f;
-  --color-point10: #96c120;
-  --color-point11: #97c222;
+  --color-point01: #CA0202;
+  --color-point02: #DA1009;
+  --color-point03: #D70000;
+  --color-point04: #D83832;
+  --color-point05: #FF6216;
+  --color-point06: #FE8100;
+  --color-point07: #97C222;
+  --color-point08: #96C11F;
+  --color-point09: #539A00;
+  --color-point10: #47b3ea;
+  --color-point11: #000000;
+  --color-point12: #212529;
+  --color-point13: #333333;
+  --color-point14: #454545;
+  --color-point15: #666666;
+  --color-point16: #888888;
+  --color-point17: #999999;
+  --color-point18: #FFFFFF;
 }
 
 /* 반응형, 모바일에서 모든요소의 패딩,선을 크기안에 포함시킴 */

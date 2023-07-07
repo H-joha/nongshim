@@ -3,3 +3,5 @@
 
 # Ignore all css files:
 *.css
+
+swiper.min.js
